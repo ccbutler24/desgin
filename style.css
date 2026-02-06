@@ -6,7 +6,7 @@
 body {
   background: lightpink;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  text-align: center;
+  
   margin: auto;
 }
 
@@ -22,5 +22,6 @@ p{
 .container{
   border: 8px soild black;
   width: 100%;
+  text-align: center;
 }
 
