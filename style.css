@@ -6,6 +6,11 @@ body {
 }
 
 h1{
-  
+  color: black;
+}
+
+p{
+  color:black;
+  font-size: 30px;
 }
 
