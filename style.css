@@ -1,3 +1,8 @@
+.shaunat{width: 40px;position: sticky; top: 0;  z-index: 1000; }
+.shaunat:hover {
+  cursor: pointer;
+}
+
 body {
   background: lightpink;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -12,5 +17,10 @@ h1{
 p{
   color:black;
   font-size: 30px;
+}
+
+.container{
+  border: 8px soild black;
+  width: 100%;
 }
 
